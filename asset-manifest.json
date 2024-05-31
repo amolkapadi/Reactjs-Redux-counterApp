@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amolkapadi/Reactjs-Redux-counterApp/static/css/main.87e24046.css",
+    "main.js": "/amolkapadi/Reactjs-Redux-counterApp/static/js/main.1f5b38ad.js",
+    "static/js/453.e2f91326.chunk.js": "/amolkapadi/Reactjs-Redux-counterApp/static/js/453.e2f91326.chunk.js",
+    "index.html": "/amolkapadi/Reactjs-Redux-counterApp/index.html",
+    "main.87e24046.css.map": "/amolkapadi/Reactjs-Redux-counterApp/static/css/main.87e24046.css.map",
+    "main.1f5b38ad.js.map": "/amolkapadi/Reactjs-Redux-counterApp/static/js/main.1f5b38ad.js.map",
+    "453.e2f91326.chunk.js.map": "/amolkapadi/Reactjs-Redux-counterApp/static/js/453.e2f91326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e24046.css",
+    "static/js/main.1f5b38ad.js"
+  ]
+}
