@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![React Multiple Select Search TextInput](https://github.com/amolkapadi/Reactjs-Redux-counterApp/assets/72144987/cf00f006-8f95-4423-b08d-f6fde396454f)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
